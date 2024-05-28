@@ -73,19 +73,6 @@ Enable visualization with Weights & Biases:
 python main.py --use_wandb ...
 ```
 
-### Running the Experiments
-
-Choose the configuration you want to run and execute the corresponding command:
-
-```bash
-python run_confX.py
-```
-
-Replace `run_confX.py` with the appropriate script for your desired experiment, where `X` is the number of the configuration you wish to run (e.g., `run_conf1.py`, `run_conf2.py`, etc.).
-## Results
-
-The results of our experiments are summarized in the paper. We evaluate the performance of CTMA and the double-momentum technique across various models and datasets, demonstrating significant improvements in robustness and efficiency compared to baseline methods.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
