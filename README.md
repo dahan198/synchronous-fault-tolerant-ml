@@ -19,10 +19,6 @@ This repository contains the code and data associated with the paper **"Fault To
 - [Results](#results)
 - [License](#license)
 
-## Introduction
-
-This repository features the implementation of the Centered Trimmed Meta Aggregator (CTMA) and showcases the effectiveness of the double-momentum gradient estimation technique in enhancing fault tolerance. Our approach improves the efficiency and practicality of Byzantine-robust training in distributed ML systems. Detailed theoretical insights and empirical results are discussed in the paper.
-
 ## Installation
 
 Clone the repository and navigate to the `synchronous-fault-tolerant-ml` package directory:
