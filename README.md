@@ -15,8 +15,6 @@ This repository contains the code and data associated with the paper **"Fault To
 - [Usage](#usage)
   - [Basic Command](#basic-command)
   - [Setting up Weights & Biases](#setting-up-weights--biases)
-  - [Running the Experiments](#running-the-experiments)
-- [Results](#results)
 - [License](#license)
 
 ## Installation
