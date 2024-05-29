@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the code and data associated with the paper **"Fault Tolerant ML: Efficient Meta-Aggregation and Synchronous Training"** by Tehila Dahan and Kfir Y. Levy. The paper investigates Byzantine-robust training in distributed machine learning systems, introducing the Centered Trimmed Meta Aggregator (CTMA) and a double-momentum strategy for gradient estimation.
+This repository contains the code and data associated with the paper **"Fault Tolerant ML: Efficient Meta-Aggregation and Synchronous Training"** by Tehila Dahan and Kfir Y. Levy. The paper investigates Byzantine-robust training in distributed machine learning systems, introducing the Centered Trimmed Meta Aggregator (CTMA) and showcasing the effectiveness of the double-momentum gradient estimation technique in enhancing fault tolerance.
 
 ## Table of Contents
 
