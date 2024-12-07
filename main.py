@@ -35,7 +35,7 @@ def main():
     parser.add_argument('--model', type=str, default='simple_mnist', choices=MODEL_REGISTRY.keys(),
                         help='Model architecture to be used.')
     parser.add_argument('--epoch_num', type=int, default=1, help='Number of epochs for training.')
-    parser.add_argument('--eval_interval', type=int, default=20,
+    parser.add_argument('--eval_interval', type=int, default=1,
                         help='Interval (in epochs) at which evaluation is performed.')
     parser.add_argument('--optimizer', type=str, default='mu2sgd', choices=['mu2sgd', 'momentum'],
                         help='Optimizer to be used for training.')
